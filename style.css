@@ -5,4 +5,5 @@ body{
     width:100px;
     height:20px;
     font-weight:bold;
+    border:1px solid #fff;
 }
